@@ -39,6 +39,22 @@ Output file:
 gem_all_bids.csv
 
 
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/e433d906-b859-4eef-9213-8de9b6961423" />
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/a75e462a-7446-441d-a8ee-bfedb1ea8c59
+
+
+
+
+https://github.com/user-attachments/assets/3cb3abce-a933-4670-bf9b-343be17aa90a
+
+
 
 
 ## Installation Prerequisites
